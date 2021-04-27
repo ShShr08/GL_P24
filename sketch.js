@@ -15,7 +15,7 @@ function setup(){
 
     plane = new Pl(600,height,1200,20)
     hammer = new Hmmr(10,100);
-    stn = new Ston(700,150,width,height)
+    stn = new ston(700,150,width,height)
     irn = new Iron(300,200,width,height);
 }
 
